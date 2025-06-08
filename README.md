@@ -31,14 +31,21 @@ Here are some of my technical write-ups and insights:
 ### Others
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+## 🚀 Projects
+
+Here are some of the real-world applications I've been working on:
+
+### 🤖 AI/ML Applications
+Exploring the power of Artificial Intelligence through practical implementations.
+- 🧠 [**AI/ML Project Showcase**](https://github.com/stars/srikanth-maganti/lists/ai-ml-applications)  
+  Projects involving Machine Learning, Deep Learning, Generative AI, LLMs and more.
 
 
-## 📊 GitHub Stats
+### 🌐 Web Applications
+Crafting dynamic and scalable web platforms using the MERN stack and RESTful APIs.
+- 💻 [**Web Project Showcase**](https://github.com/stars/srikanth-maganti/lists/web-applications)  
+  Includes frontend, backend, and full-stack web development projects.
 
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=srikanth-maganti&theme=dark&hide_border=false" alt="GitHub Streak" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=srikanth-maganti&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs" height="200"/>
-</div>
 
 ## 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srikanth-maganti1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@srikanth-maganti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srikanthmaganti2004@gmail.com) 

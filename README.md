@@ -1,8 +1,8 @@
 # 👋 Hey there!  
 I'm **Srikanth Maganti** — a passionate **Full Stack Developer (MERN)** & **AI/ML Practitioner**
 
-🎓 Final Year BTech CSE Student @ RGUKT Srikakulam
-💻 I turn ideas into real web projects — build them, deploy them, and keep them running.
+🎓 Final Year BTech CSE Student @ RGUKT Srikakulam  
+💻 I turn ideas into real web projects — build them, deploy them, and keep them running.  
 🧠 Have expertise in **Machine Learning**, **Deep Learning**, and **LLMs**  
 🔭 Also exploring **Generative AI**, **Chatbots**, and **AI Agents**  
 🚀 Actively seeking **Internship Opportunities** in Software Development or AI/ML to apply my skills in real-world challenges  

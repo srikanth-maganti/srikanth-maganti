@@ -1,10 +1,21 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Srikanth%20Maganti%20!;" />
 </div>
-I'm **Srikanth Maganti** — a passionate **Full Stack Developer (MERN)** & **AI/ML Practitioner**
-
+<h3 align="center">Full stack developer & AI/ML Practitioner</h3>
+<div align="center">
+ I turn ideas into real web projects — build them, deploy them, and keep them running
+ </div>
+<br/>
+<div align="center"> 
+  <a href="mailto:boyinasambashivarao@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/sambashivarao-boyina/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+ 
+</div>
 🎓 Final Year BTech CSE Student @ RGUKT Srikakulam  
-💻 I turn ideas into real web projects — build them, deploy them, and keep them running.  
 🧠 Have expertise in **Machine Learning**, **Deep Learning**, and **LLMs**  
 🔭 Also exploring **Generative AI**, **Chatbots**, and **AI Agents**  
 🚀 Actively seeking **Internship Opportunities** in Software Development or AI/ML to apply my skills in real-world challenges  

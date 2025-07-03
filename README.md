@@ -3,19 +3,17 @@
 </div>
 <h3 align="center">Full stack developer & AI/ML Practitioner</h3>
 <div align="center">
- I turn ideas into real web projects — build them, deploy them, and keep them running
+ I turn ideas into real world projects — build them, deploy them, and keep them running
  </div>
-<br/>
+<br>
 <div align="center"> 
-  <a href="mailto:boyinasambashivarao@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://www.linkedin.com/in/sambashivarao-boyina/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
- 
+  
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/srikanth-maganti1) &nbsp; [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:srikanthmaganti2004@gmail.com) 
+
 </div>
-🎓 Final Year BTech CSE Student @ RGUKT Srikakulam  
+<hr>
+
+🎓 Final Year BTech CSE Student @ RGUKT Srikakulam   
 🧠 Have expertise in **Machine Learning**, **Deep Learning**, and **LLMs**  
 🔭 Also exploring **Generative AI**, **Chatbots**, and **AI Agents**  
 🚀 Actively seeking **Internship Opportunities** in Software Development or AI/ML to apply my skills in real-world challenges  
@@ -62,13 +60,9 @@ Here are some of my technical write-ups and insights:
 > 📚 More coming soon — stay tuned on [Medium](https://medium.com/@srikanth-maganti)
 
 
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/srikanth-maganti1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@srikanth-maganti) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:srikanthmaganti2004@gmail.com) 
-
 ## ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=srikanth-maganti&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

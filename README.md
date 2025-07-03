@@ -1,4 +1,6 @@
-# 👋 Hey there!  
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Srikanth%20Maganti%20!;" />
+</div>
 I'm **Srikanth Maganti** — a passionate **Full Stack Developer (MERN)** & **AI/ML Practitioner**
 
 🎓 Final Year BTech CSE Student @ RGUKT Srikakulam  
@@ -10,15 +12,6 @@ I'm **Srikanth Maganti** — a passionate **Full Stack Developer (MERN)** & **AI
 - **Food Scanner** – food recognition and nutrition estimation using deep learning and computer vision techniques  
 - **Book Bazaar** – a platform for buying and selling second-hand books
 
-
-## ✍️ Featured Blogs
-
-Here are some of my technical write-ups and insights:
-
-- 🧠 [**Designing Neural Networks with Multiple Inputs and Outputs in Keras**](https://medium.com/@srikanth-maganti/designing-neural-networks-with-multiple-inputs-and-outputs-in-keras-af80f23a2b32)  
-  *Learn how to build complex neural architectures using Keras Functional API for multi-input and multi-output problems.*
-
-> 📚 More coming soon — stay tuned on [Medium](https://medium.com/@srikanth-maganti)
 
 ## 💻 Tech Stack
 ### 📦 ML/DL Tools
@@ -46,6 +39,16 @@ Exploring the power of Artificial Intelligence through practical implementations
 Crafting dynamic and scalable web platforms using the MERN stack and RESTful APIs.
 - 💻 [**Web Project Showcase**](https://github.com/stars/srikanth-maganti/lists/web-applications)  
   Includes frontend, backend, and full-stack web development projects.
+
+
+## ✍️ Featured Blogs
+
+Here are some of my technical write-ups and insights:
+
+- 🧠 [**Designing Neural Networks with Multiple Inputs and Outputs in Keras**](https://medium.com/@srikanth-maganti/designing-neural-networks-with-multiple-inputs-and-outputs-in-keras-af80f23a2b32)  
+  *Learn how to build complex neural architectures using Keras Functional API for multi-input and multi-output problems.*
+
+> 📚 More coming soon — stay tuned on [Medium](https://medium.com/@srikanth-maganti)
 
 
 ## 🌐 Connect with me

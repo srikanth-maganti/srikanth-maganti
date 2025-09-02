@@ -2,7 +2,7 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;I'm+Srikanth%20Maganti%20!;" />
 </div>
-<h3 align="center">Full stack developer & AI/ML Practitioner</h3>
+<h3 align="center">AI/ML Engineer</h3>
 <div align="center">
  I turn ideas into real world projects — build them, deploy them, and keep them running
  </div>
@@ -15,10 +15,7 @@
 <hr>
 
 🎓 Final Year BTech CSE Student @ RGUKT Srikakulam    
-🔭 Currently exploring AI integration in real-world applications to enhance functionality and user experience.  
-💻 Currently Working on real-world projects like:
-- **Food Scanner** – food recognition and nutrition estimation using deep learning and computer vision techniques  
-- **Book Bazaar** – a platform for buying and selling second-hand books
+
 
 
 ## 💻 Tech Stack
